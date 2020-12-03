@@ -1,0 +1,5 @@
+ORHAN		CAN		51S		100
+MELEK		YENIL		52S		50
+ERDI		KAYA		53S		60
+BERAT		DOGRU		54S        	55
+rahmi		aydemir		11		50
